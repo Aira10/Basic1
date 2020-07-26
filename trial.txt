@@ -5,3 +5,5 @@ this is the comment added as part of the branch
 
 trial comment on same line as edited branch2 comment- did not work, resulted in fault, couldn't press resolve button
 
+branch3 comment to be merged
+
